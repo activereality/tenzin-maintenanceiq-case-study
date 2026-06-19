@@ -1,14 +1,33 @@
-# Screenshots
+# Screenshot Plan
 
-Suggested sanitized screenshots to add before sharing publicly:
+This folder is reserved for sanitized screenshots of the Tenzin MaintenanceIQ application.
 
-1. Asset/machine list
-2. Machine profile/detail view
-3. Documents tab or document list
-4. AI answer with citations
-5. MaintenanceIQ issue detail
-6. Timeline view
-7. Attachments collapsed and expanded
-8. Feedback UI
+Planned screenshots:
 
-Before adding screenshots, remove or blur any private data, real company names, emails, machine serial numbers, uploaded document names, or storage details.
+1. Asset profile / machine dashboard
+2. Document library
+3. AI answer with citations
+4. Maintenance issue timeline
+5. Attachment archive / document association workflow
+6. Feedback controls for answer and citation quality
+
+Screenshots should avoid exposing:
+
+- real customer data
+- real uploaded documents
+- private tenant or account identifiers
+- internal storage paths
+- source code
+- secrets, tokens, or environment values
+
+## Suggested Naming
+
+Use simple descriptive names:
+
+```text
+asset-profile.png
+document-library.png
+ai-answer-with-citations.png
+maintenance-issue-timeline.png
+issue-attachments.png
+feedback-controls.png
