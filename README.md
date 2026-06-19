@@ -15,6 +15,28 @@ The platform is designed for plants, machine builders, integrators, and maintena
 - [Domain Model](assets/diagrams/domain-model.md)
 - [AI / RAG Citation Flow](assets/diagrams/rag-citation-flow.md)
 
+## Screenshots
+
+The screenshots below use sanitized demo data and are intended to show product workflows without exposing private source code, customer data, secrets, or internal implementation details.
+
+### Ask Tenzin
+
+![Ask Tenzin panel](assets/screenshots/ask-tenzin-panel.png)
+
+Machine-specific AI question workflow scoped to a selected industrial asset.
+
+### AI Answer Summary
+
+![AI answer summary](assets/screenshots/ai-answer-summary.png)
+
+AI-assisted troubleshooting response with similar prior issue history and maintenance workflow actions.
+
+### Cited Sources
+
+![Cited sources](assets/screenshots/cited-sources.png)
+
+Citation-first answer support with source cards and feedback controls for citation quality.
+
 ## What this repo proves
 
 This public repo is intentionally not a source-code dump. Instead, it shows how the system is designed and built at an engineering level:

@@ -1,15 +1,14 @@
 # Screenshot Plan
 
-This folder is reserved for sanitized screenshots of the Tenzin MaintenanceIQ application.
+# Screenshots
 
-Planned screenshots:
+This folder contains sanitized screenshots of the Tenzin MaintenanceIQ application.
 
-1. Asset profile / machine dashboard
-2. Document library
-3. AI answer with citations
-4. Maintenance issue timeline
-5. Attachment archive / document association workflow
-6. Feedback controls for answer and citation quality
+Included screenshots:
+
+- `ask-tenzin-panel.png` — machine-specific AI question workflow
+- `ai-answer-summary.png` — AI troubleshooting answer with prior issue context
+- `cited-sources.png` — cited source cards and citation-level feedback controls
 
 Screenshots should avoid exposing:
 
