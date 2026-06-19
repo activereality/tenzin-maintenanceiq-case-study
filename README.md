@@ -84,11 +84,13 @@ The production codebase is private because Tenzin is an active commercial produc
 | [Verification](docs/09_verification.md) | Build, test, frontend, and quality gates |
 | [Roadmap](docs/10_roadmap.md) | Near-term and future product direction |
 | [Resume and LinkedIn Blurbs](docs/11_resume_and_linkedin_blurbs.md) | Public-facing project descriptions for job search use |
+| [Interview Walkthrough](docs/12_interview_walkthrough.md) | Guided explanation for recruiter screens, interviews, and technical walkthroughs |
 | [System Context Diagram](assets/diagrams/system-context.md) | High-level system context rendered with Mermaid |
 | [Domain Model Diagram](assets/diagrams/domain-model.md) | Simplified domain relationship diagram rendered with Mermaid |
 | [AI / RAG Citation Flow](assets/diagrams/rag-citation-flow.md) | Sequence diagram for cited AI answer generation |
 | [Screenshot Plan](assets/screenshots/README.md) | Planned sanitized screenshots and safety checklist |
 | [ADRs](docs/adr/) | Architecture Decision Records |
+
 
 
 ## High-level system map
