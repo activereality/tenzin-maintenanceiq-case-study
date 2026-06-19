@@ -1,0 +1,16 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local notes / scratch
+scratch/
+private/
+*.tmp
+
+# Never commit secrets
+.env
+.env.*
+*.key
+*.pem
