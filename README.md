@@ -1,6 +1,6 @@
 # Tenzin MaintenanceIQ — Public Technical Case Study
 
-> A sanitized engineering portfolio repository for an active SaaS product build.  
+> A sanitized engineering portfolio repository for an active SaaS product build.
 > Production source code is private. This repository documents the product architecture, design decisions, implementation slices, verification discipline, and technical tradeoffs behind the platform.
 
 ## What this is
@@ -33,6 +33,8 @@ Maintenance teams often lose time searching through PDFs, binders, shared drives
 - [Demo script](docs/customer-facing/demo-script.md)
 - [Pilot success criteria](docs/customer-facing/pilot-success-criteria.md)
 - [Customer-facing system overview diagram](assets/diagrams/tenzin-maintenanceiq-system-overview.png)
+- [PDF one-page overview](docs/customer-facing/pdf/tenzin-maintenanceiq-one-page-overview.pdf)
+- [PDF pilot collateral packet](docs/customer-facing/pdf/tenzin-maintenanceiq-pilot-collateral-packet.pdf)
 
 Pilot success criteria are framed as goals to validate during a focused pilot, not guaranteed outcomes.
 
