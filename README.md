@@ -9,6 +9,33 @@ Tenzin MaintenanceIQ is a SaaS application concept and active build focused on h
 
 The platform is designed for plants, machine builders, integrators, and maintenance teams that need a practical way to connect machine assets, components, manuals, PLC/HMI/VFD program files, troubleshooting notes, maintenance issues, and cited AI assistance.
 
+## For customer and pilot readers
+
+Tenzin MaintenanceIQ is a cited maintenance knowledge assistant for helping teams find answers inside equipment documentation. It is designed to support maintenance, reliability, operations, and technical leaders who need faster access to trusted machine knowledge without replacing technicians, engineers, OEM manuals, safety procedures, or existing CMMS/EAM systems.
+
+### What it does
+
+- Organizes approved equipment documentation around accounts, facilities, assets, and maintenance issues.
+- Lets users ask plain-language maintenance questions tied to asset context.
+- Returns source-backed answers with citations so users can open the cited manual page.
+- Captures feedback and issue context so teams can learn which references were useful.
+- Keeps account and facility data boundaries visible in pilot conversations.
+
+### Why it matters
+
+Maintenance teams often lose time searching through PDFs, binders, shared drives, and tribal knowledge during troubleshooting. Tenzin is intended to help teams find relevant documentation faster, verify answers against original sources, and preserve useful troubleshooting context for future work.
+
+### Customer-facing collateral
+
+- [One-page customer overview](docs/customer-facing/tenzin-one-page-overview.md)
+- [Pilot collateral packet](docs/customer-facing/README.md)
+- [Pilot discovery questions](docs/customer-facing/pilot-discovery-questions.md)
+- [Demo script](docs/customer-facing/demo-script.md)
+- [Pilot success criteria](docs/customer-facing/pilot-success-criteria.md)
+- [Customer-facing system overview diagram](assets/diagrams/tenzin-maintenanceiq-system-overview.png)
+
+Pilot success criteria are framed as goals to validate during a focused pilot, not guaranteed outcomes.
+
 ## Diagrams
 
 - [System Context](assets/diagrams/system-context.md)
@@ -85,6 +112,9 @@ The production codebase is private because Tenzin is an active commercial produc
 | [Roadmap](docs/10_roadmap.md) | Near-term and future product direction |
 | [Resume and LinkedIn Blurbs](docs/11_resume_and_linkedin_blurbs.md) | Public-facing project descriptions for job search use |
 | [Interview Walkthrough](docs/12_interview_walkthrough.md) | Guided explanation for recruiter screens, interviews, and technical walkthroughs |
+| [Customer-Facing Collateral](docs/customer-facing/README.md) | One-page overview, pilot discovery questions, demo script, and pilot success criteria |
+| [Tenzin MaintenanceIQ One-Page Overview](docs/customer-facing/tenzin-one-page-overview.md) | Concise customer-facing product overview for pilot and sales conversations |
+| [Customer-Facing System Overview](assets/diagrams/tenzin-maintenanceiq-system-overview.png) | Simple public diagram showing how Tenzin connects users, documents, retrieval, citations, and source opening |
 | [System Context Diagram](assets/diagrams/system-context.md) | High-level system context rendered with Mermaid |
 | [Domain Model Diagram](assets/diagrams/domain-model.md) | Simplified domain relationship diagram rendered with Mermaid |
 | [AI / RAG Citation Flow](assets/diagrams/rag-citation-flow.md) | Sequence diagram for cited AI answer generation |
